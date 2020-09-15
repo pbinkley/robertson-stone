@@ -22,7 +22,7 @@
       {
         "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 94.0,
+        "duration": 95.137159,
         "annotations": [
           
           {
@@ -44,7 +44,7 @@
                   "id": "http://memory.loc.gov/afc/afccc/audio/a335/a3358b2.mp3",
                   "type": "Sound",
                   "format": "audio/mp3",
-                  "duration": 94.0
+                  "duration": 95.137159
                 },
                 "target": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas"
               }
