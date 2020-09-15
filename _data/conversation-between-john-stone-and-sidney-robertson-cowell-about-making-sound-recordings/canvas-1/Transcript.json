@@ -6,27 +6,6 @@
   "items": [
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript-annotation-0.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": {
-        "type": "TextualBody",
-        "value": null,
-        "format": "text/plain"
-      },
-      "target": {
-        "source": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas",
-        "selector": {
-          "type": "RangeSelector",
-          "t": "-0.964635,13.625474"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript-annotation-1.json",
       "type": "Annotation",
       "motivation": [
