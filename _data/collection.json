@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Sidney Robertson and John Stone" ] },
+    "summary": { "en": [ "A brief conversation about the future use of recordings, between Sidney Robertson, who was collecting California folk music for the WPA, and John Stone, a fiddler, 5 August, 1939. " ] },
+    "items": [
+    ]
+}
