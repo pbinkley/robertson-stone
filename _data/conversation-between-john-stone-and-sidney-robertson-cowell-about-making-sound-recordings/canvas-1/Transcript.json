@@ -1,0 +1,239 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript.json",
+  "type": "AnnotationPage",
+  "label": "Transcript",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "-0.964635,13.625474"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "JS: It’s something very interesting. Now anybody who records the sound of their voice, way years to come, you know, why they can be heard, even by their grandchildren.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.000000,14.590109"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SR: That’s the idea.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "13.625474,16.037062"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "JS: Yes.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "14.710689,14.951848"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "JS: They’d be after them kind of records; there’d be a great demand for them kind of records.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "16.760539,20.980818"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SR: I imagine there may be. The government is going to keep these, keep them on ice you might say; and they can never be sold, but never be played …",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "22.668930,32.315283"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "JS: Oh I see. They can’t … can they reproduce from them?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "32.194704,36.294404"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SR: Well, they can, it costs about $20 to make the mould from which they reproduce, and they never had enough money to do that, they just keep these; and I suppose that eventually a hundred years from now they may raise money enough to do that, or there may be a less expensive way to do that.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "36.535563,52.090307"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "JS: I was thinking that this microphone could be … oh, that wouldn’t, ah, you’d have to have another … of course … play it on there, couldn’t they have another machine …",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "52.090307,69.333164"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SR: Yes, you can, but you can only make six or eight copies that way, because playing this, every time you run the needle over it, it scratches the surface of it a little and makes some noise. See, this is soft stuff, it isn’t like the records that you buy, and every time you play it it takes some of the surface off. It isn’t quite as soft as wax, but it’s the same principle(?). And for that reason the life of it is [inaudible].",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "69.574323,93.087309"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas/Transcript-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "JS: Well, what I don’t know…",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://pbinkley.github.io/robertson-stone/conversation-between-john-stone-and-sidney-robertson-cowell-about-making-sound-recordings/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "93.810785,95.137159"
+        }
+      }
+    }
+  ]
+}
