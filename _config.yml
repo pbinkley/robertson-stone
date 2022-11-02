@@ -31,9 +31,10 @@ minima:
       - username: pbinkley
         instance: code4lib.social
     twitter: pabinkley
+    orcid: 0000-0003-0560-8958
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: pbinkley/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
